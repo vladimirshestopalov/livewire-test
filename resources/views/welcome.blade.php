@@ -124,7 +124,7 @@
 </x-first-component>
 
 <x-fucking-second-component>
-    456
+    4567
     <x-slot name="footer">
         fucking footer
     </x-slot>
